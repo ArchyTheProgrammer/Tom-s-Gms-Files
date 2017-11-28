@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0091e436-057f-471c-8294-9f45402da439",
-            "Value": {
-                "id": "d4d72dda-6ddb-4f33-9b03-e6ae5e0420dd",
-                "resourcePath": "sprites\\playerWalkBack\\playerWalkBack.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "00f607eb-40e0-495c-ae30-0177e8051995",
             "Value": {
                 "id": "0a83fbcd-5793-4985-8d9f-55745650e61e",
@@ -244,6 +236,14 @@
                 "id": "668db0d3-5115-4c5f-b634-66e507fed0e7",
                 "resourcePath": "views\\bc507f6d-1170-4c6d-b886-69b809d06068.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c379892f-717d-498a-b98f-a79e46e08238",
+            "Value": {
+                "id": "dd867eb8-0f60-4e6f-88ee-84d908d10a44",
+                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
